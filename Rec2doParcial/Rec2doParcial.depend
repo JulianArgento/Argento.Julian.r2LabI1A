@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1637698626 source:d:\documentos\programacion 1\rec2doparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637698644 d:\documentos\programacion 1\rec2doparcial\linkedlist.h
+
+1638280829 source:d:\documentos\programacion 1\rec2doparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"utn.h"
+	"Controller.h"
+
+1638280403 source:d:\documentos\programacion 1\rec2doparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+
+1638231115 d:\documentos\programacion 1\rec2doparcial\parser.h
+
+1638280403 source:d:\documentos\programacion 1\rec2doparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1638280863 d:\documentos\programacion 1\rec2doparcial\utn.h
+
+1638280465 source:d:\documentos\programacion 1\rec2doparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+	"parser.h"
+	"utn.h"
+	"Controller.h"
+
+1638280417 d:\documentos\programacion 1\rec2doparcial\controller.h
+	"LinkedList.h"
+
+1638363377 source:d:\documentos\programacion 1\recuperatorio segundo parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+	"eMovie.h"
+	"parser.h"
+	"utn.h"
+	"Controller.h"
+
+1637698644 d:\documentos\programacion 1\recuperatorio segundo parcial\linkedlist.h
+
+1638292741 d:\documentos\programacion 1\recuperatorio segundo parcial\parser.h
+
+1638363516 d:\documentos\programacion 1\recuperatorio segundo parcial\utn.h
+
+1638363170 d:\documentos\programacion 1\recuperatorio segundo parcial\controller.h
+	"LinkedList.h"
+
+1637698626 source:d:\documentos\programacion 1\recuperatorio segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1638359472 source:d:\documentos\programacion 1\recuperatorio segundo parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"eMovie.h"
+
+1638361318 source:d:\documentos\programacion 1\recuperatorio segundo parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1638361687 source:d:\documentos\programacion 1\recuperatorio segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"eMovie.h"
+	"utn.h"
+	"Controller.h"
+
+1638363170 source:d:\documentos\programacion 1\recuperatorio segundo parcial\emovie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"eMovie.h"
+
+1638363170 d:\documentos\programacion 1\recuperatorio segundo parcial\emovie.h
+
