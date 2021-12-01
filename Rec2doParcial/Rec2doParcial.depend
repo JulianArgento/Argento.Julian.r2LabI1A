@@ -100,3 +100,60 @@
 
 1638363170 d:\documentos\programacion 1\recuperatorio segundo parcial\emovie.h
 
+1638363377 source:d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+	"eMovie.h"
+	"parser.h"
+	"utn.h"
+	"Controller.h"
+
+1637698644 d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\linkedlist.h
+
+1638363170 d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\emovie.h
+
+1638292741 d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\parser.h
+
+1638363516 d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\utn.h
+
+1638363170 d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\controller.h
+	"LinkedList.h"
+
+1638363170 source:d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\emovie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"eMovie.h"
+
+1637698626 source:d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1638361687 source:d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"eMovie.h"
+	"utn.h"
+	"Controller.h"
+
+1638359472 source:d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"eMovie.h"
+
+1638363516 source:d:\entrega rp2\argento.julian.r2labi1a\rec2doparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+

@@ -1,101 +1,101 @@
 id_peli,titulo,genero,rating
-62,Dawn Rider,Accion,1.300000
-52,That Touch of Mink,Accion,2.100000
-35,With Love,Accion,2.600000
-70,Pirates Who Dont Do Anything,Accion,2.600000
-12,Romantic Comedy,Accion,2.700000
-14,Casshern,Accion,3.300000
-53,47 Ronin,Accion,3.500000
-18,Chu Chin Chow,Accion,3.800000
-1,Docks of New York,Accion,4.800000
-2,Generals Daughter,Accion,4.800000
-49,Horrible Bosses 2,Accion,5.100000
-54,Heartlands,Accion,5.100000
-67,Mystery Science Theater 3000,Accion,5.900000
-4,Day After Trinity,Accion,5.900000
-38,Battlestar Galactica,Accion,6.600000
-30,Sometimes They Come Back,Accion,6.700000
-36,Questioning Darwin,Accion,6.900000
-79,Kanine,Accion,6.900000
-10,The Case of Lucky Legs,Accion,7.400000
-24,Tic Code,Accion,7.500000
-11,Musketeer,Accion,7.600000
-6,Eenfance naked Childhood,Accion,7.800000
-84,Greatest Show on Earth,Accion,7.900000
-47,Raiders of the Lost Ark,Accion,8.600000
-44,Summer in Berlin,Accion,8.700000
-75,Big Mommas Like Father,Accion,8.700000
-72,5 Deadly Venoms,Accion,9.800000
-57,Dragon Ball Z,Accion,9.800000
-45,Presidents Man,Accion,10.000000
-59,1969,Accion,10.000000
-8,How to Survive a Plague,Accion,10.000000
-98,Best Defense,Accion,10.000000
-17,Satans Tango ,Comedia,1.300000
-73,Deep Rising,Comedia,1.500000
-27,Telefon,Comedia,2.100000
-41,Brute The Bruto,Comedia,2.500000
-97,Vie en Rose,Comedia,2.900000
-39,Bone Collector,Comedia,3.100000
-77,Doubt,Comedia,3.300000
-78,Dark Horse,Comedia,3.300000
-74,In America,Comedia,4.300000
-26,In the Cut,Comedia,4.700000
-82,Rogue Cop,Comedia,4.800000
+69,My Favorite Martian,Accion,1.800000
+88,200 MPH,Accion,2.200000
+32,Chance of a Lifetime,Accion,3.400000
+73,Deep Rising,Accion,3.700000
+23,American Winter,Accion,3.900000
+62,Dawn Rider,Accion,4.300000
+64,Ugly Truth,Accion,5.100000
+76,North to Alaska,Accion,5.300000
+45,Presidents Man,Accion,5.600000
+6,Eenfance naked Childhood,Accion,6.700000
+91,Take Me Out to the Ball Game,Accion,6.900000
+4,Day After Trinity,Accion,7.200000
+8,How to Survive a Plague,Accion,7.300000
+16,North Face,Accion,8.300000
+31,Floundering,Accion,9.100000
+15,Dragonquest,Accion,9.500000
+53,47 Ronin,Accion,9.600000
+33,The Snow White Murder Case,Accion,10.000000
+92,Silent House,Comedia,1.400000
+35,With Love,Comedia,2.400000
+7,Who Is John Galt,Comedia,2.600000
+89,Phantom,Comedia,3.100000
+3,Angry Silence,Comedia,3.600000
+81,Carbon Copy,Comedia,3.700000
+52,That Touch of Mink,Comedia,3.800000
+93,Ordinary Decent Criminal,Comedia,3.800000
+77,Doubt,Comedia,4.300000
 46,36 Quai des Orfevres,Comedia,4.800000
-48,Taxi 4,Comedia,5.100000
-80,Surfs Up,Comedia,5.100000
-16,North Face,Comedia,5.100000
-71,Dr. Jack,Comedia,5.900000
-40,Saturday Night Fever,Comedia,6.500000
-94,Eerie Tales,Comedia,7.500000
-32,Chance of a Lifetime,Comedia,8.400000
-61,Wednesday,Comedia,9.300000
-22,Naked in New York,Comedia,9.500000
-81,Carbon Copy,Comedia,10.000000
-23,American Winter,Comedia,10.000000
-28,The Coven,Comedia,10.000000
-19,Cannibal Holocaust,Drama,1.800000
-96,Way We Laughed,Drama,1.800000
-9,The Man From The Alamo,Drama,2.100000
-37,Designing Woman,Drama,2.300000
-20,Boy Meets Boy,Drama,2.700000
-50,Jill the Ripper,Drama,3.100000
-51,Robot Carnival,Drama,3.200000
-7,Who Is John Galt,Drama,4.500000
-99,Jimmy Rosenberg,Drama,4.700000
-87,Je appelle Elisabeth,Drama,4.900000
-33,The Snow White Murder Case,Drama,5.500000
-95,Cloverfield,Drama,5.600000
+71,Dr. Jack,Comedia,5.700000
+84,Greatest Show on Earth,Comedia,6.400000
+14,Casshern,Comedia,6.500000
+41,Brute The Bruto,Comedia,6.500000
+90,Cheech and Chong,Comedia,6.700000
+80,Surfs Up,Comedia,7.100000
+74,In America,Comedia,7.300000
+68,Mountaintop Motel Massacre,Comedia,7.400000
+79,Kanine,Comedia,7.500000
+58,Link,Comedia,8.100000
+37,Designing Woman,Comedia,8.500000
+34,Yonkers Joe,Comedia,9.100000
+29,Dirty Work,Comedia,9.200000
+59,1969,Comedia,9.200000
+70,Pirates Who Dont Do Anything,Comedia,9.200000
+13,Fall From Grace,Comedia,9.300000
+22,Naked in New York,Comedia,9.400000
+65,10 000 timmar,Comedia,9.500000
+10,The Case of Lucky Legs,Comedia,10.000000
+100,You Kill Me,Comedia,10.000000
+50,Jill the Ripper,Drama,1.600000
+26,In the Cut,Drama,1.700000
+54,Heartlands,Drama,2.200000
+83,Dodge City,Drama,2.200000
+1,Docks of New York,Drama,2.700000
+20,Boy Meets Boy,Drama,2.800000
+72,5 Deadly Venoms,Drama,2.800000
+85,Quicksilver Highway,Drama,3.300000
+95,Cloverfield,Drama,3.800000
+51,Robot Carnival,Drama,4.100000
+42,Experiment in Terror,Drama,4.500000
+44,Summer in Berlin,Drama,4.700000
+87,Je appelle Elisabeth,Drama,5.700000
 60,Flying Down to Rio,Drama,5.900000
-85,Quicksilver Highway,Drama,7.300000
-64,Ugly Truth,Drama,8.300000
-15,Dragonquest,Drama,8.600000
-25,Kick Ass,Drama,10.000000
-65,10 000 timmar,Drama,10.000000
-76,North to Alaska,Terror,1.200000
-34,Yonkers Joe,Terror,1.400000
-66,My Sassy Girl,Terror,1.500000
-58,Link,Terror,1.600000
-83,Dodge City,Terror,2.200000
-69,My Favorite Martian,Terror,2.300000
-55,Divorcee,Terror,3.300000
-89,Phantom,Terror,4.200000
-91,Take Me Out to the Ball Game,Terror,4.300000
-90,Cheech and Chong,Terror,4.900000
-13,Fall From Grace,Terror,4.900000
-43,At the Earths Core,Terror,5.100000
-3,Angry Silence,Terror,5.100000
-86,Creepshow 2,Terror,5.600000
-93,Ordinary Decent Criminal,Terror,5.600000
-68,Mountaintop Motel Massacre,Terror,6.300000
-31,Floundering,Terror,6.600000
-29,Dirty Work,Terror,7.300000
-21,Sgt Kabukiman,Terror,7.400000
-100,You Kill Me,Terror,7.600000
-92,Silent House,Terror,7.700000
-56,Minions,Terror,7.900000
-5,Disneyland Dream,Terror,8.600000
-63,Invaders from Mars,Terror,9.300000
-88,200 MPH,Terror,9.800000
-42,Experiment in Terror,Terror,10.000000
+96,Way We Laughed,Drama,5.900000
+40,Saturday Night Fever,Drama,5.900000
+98,Best Defense,Drama,6.300000
+97,Vie en Rose,Drama,6.900000
+57,Dragon Ball Z,Drama,7.200000
+17,Satans Tango ,Drama,7.200000
+30,Sometimes They Come Back,Drama,7.800000
+36,Questioning Darwin,Drama,8.600000
+63,Invaders from Mars,Drama,8.700000
+61,Wednesday,Drama,8.700000
+27,Telefon,Drama,8.700000
+18,Chu Chin Chow,Drama,8.800000
+67,Mystery Science Theater 3000,Drama,9.600000
+11,Musketeer,Drama,9.900000
+66,My Sassy Girl,Drama,10.000000
+47,Raiders of the Lost Ark,Drama,10.000000
+82,Rogue Cop,Drama,10.000000
+28,The Coven,Terror,1.100000
+78,Dark Horse,Terror,1.400000
+5,Disneyland Dream,Terror,1.800000
+55,Divorcee,Terror,1.800000
+9,The Man From The Alamo,Terror,1.900000
+99,Jimmy Rosenberg,Terror,2.100000
+39,Bone Collector,Terror,2.200000
+38,Battlestar Galactica,Terror,2.700000
+25,Kick Ass,Terror,2.900000
+86,Creepshow 2,Terror,3.200000
+21,Sgt Kabukiman,Terror,6.300000
+19,Cannibal Holocaust,Terror,6.400000
+56,Minions,Terror,6.400000
+43,At the Earths Core,Terror,6.500000
+75,Big Mommas Like Father,Terror,7.200000
+12,Romantic Comedy,Terror,7.500000
+49,Horrible Bosses 2,Terror,8.100000
+94,Eerie Tales,Terror,8.200000
+48,Taxi 4,Terror,9.200000
+2,Generals Daughter,Terror,10.000000
+24,Tic Code,Terror,10.000000

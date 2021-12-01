@@ -17,6 +17,9 @@ int main()
     int carga=0;
     int cargagenero=0;
     int ordenar=0;
+    char path[30];
+
+
 
     LinkedList* lista = ll_newLinkedList();
 
@@ -32,9 +35,11 @@ int main()
         if(ll_isEmpty(lista))
         {
 
+           getString("Ingrese el nombre del archivo de peliculas. (con extension)",path);
 
 
-           controller_loadFromText("movies.csv",lista);
+
+           controller_loadFromText(path,lista);
 
 
 
